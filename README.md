@@ -1,3 +1,5 @@
+![CI](https://github.com/kadirou12333/shortest-path-algeria/actions/workflows/ci.yml/badge.svg)
+
 # Shortest Path Algeria
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
