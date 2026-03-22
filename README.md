@@ -1,4 +1,4 @@
-![CI](https://github.com/kadirou12333/shortest-path-algeria/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/kadirou12333/shortest-path-algeria/actions/workflows/ci.yml/badge.svg?branch=master)
 
 # Shortest Path Algeria
 
